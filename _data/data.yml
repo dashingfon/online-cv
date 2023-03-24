@@ -3,7 +3,7 @@
 #
 
 sidebar:
-#     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -16,6 +16,7 @@ sidebar:
     phone: +234 903 0268 365
     timezone: West Africa Timezone
     citizenship: Nigerian
+    # website: blog.webjeda.com #do not add http://
     linkedin: mfon-nwa111
     github: dashingfon
     # telegram: # add your nickname without '@' sign
@@ -64,14 +65,14 @@ education:
 experiences:
     title: Experiences
     info:
-    - role: Code Auditor, Code4rena (Remote)
+      - role: Code Auditor, Code4rena (Remote)
         time: 2022 - 2023
         company: Code4rena
         details: |
           I honed my technical abilities in auditing smart contracts and conducting security assessments.
           My experience in scrutinizing smart contract code has equipped me with crucial skills for blockchain development,
           including an eye for detail, risk assessment, and extensive knowledge of smart contract security.
-    - role: Student LearnWeb3Dao
+      - role: Student LearnWeb3Dao
         time: 2021 - 2022
         company: LearnWeb3Dao
         details: |
@@ -82,8 +83,7 @@ experiences:
           - How to build decentralized applications (DApps) that interact with smart contracts on the Ethereum blockchain
           - How to use IPFS for decentralized storage and file sharing in DApps
           - Best practices for smart contract development, including security and testing methodologies
-          
-    - role: Data Analyst Freelancer, Fiverr (Remote)
+      - role: Data Analyst Freelancer, Fiverr (Remote)
         time: 2021
         company: Fiverr
         details: |
@@ -101,7 +101,6 @@ projects:
     intro: >
       The following are a couple of project I have worked on.
     assignments:
-
       - title: Resolver
         link: "https://gitfront.io/r/user-5556879/oAnqmmbnhjfF/Resolver/"
         tagline: "Resolver is a smart contract bytecode analysis tool that uses symbolic execution to determine the constraint that result in a successful execution"
