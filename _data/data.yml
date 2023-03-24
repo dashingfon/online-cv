@@ -71,8 +71,7 @@ experiences:
           I honed my technical abilities in auditing smart contracts and conducting security assessments.
           My experience in scrutinizing smart contract code has equipped me with crucial skills for blockchain development,
           including an eye for detail, risk assessment, and extensive knowledge of smart contract security.
-          
-     - role: Student LearnWeb3Dao
+    - role: Student LearnWeb3Dao
         time: 2021 - 2022
         company: LearnWeb3Dao
         details: |
@@ -84,7 +83,7 @@ experiences:
           - How to use IPFS for decentralized storage and file sharing in DApps
           - Best practices for smart contract development, including security and testing methodologies
           
-     - role: Data Analyst Freelancer, Fiverr (Remote)
+    - role: Data Analyst Freelancer, Fiverr (Remote)
         time: 2021
         company: Fiverr
         details: |
