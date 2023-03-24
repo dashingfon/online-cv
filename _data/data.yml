@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Mfon Stephen Nwa
     tagline: Blockchain Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: wjrb6tNF.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mfonnwa@gmail.com
@@ -32,12 +32,6 @@ sidebar:
       info:
         - idiom: English
           level: Native
-
-#         - idiom: French
-#           level: Professional
-
-#         - idiom: Spanish
-#           level: Professional
 
     interests:
       title: Interests
@@ -64,14 +58,33 @@ education:
     info:
       - degree: BSc in Petroleum and Gas Engineering
         university: University of Lagos
-        time: 2017 - current
+        time: 2017 - current |
             - Passionate about technology and its potential to transform the energy sector
-            - Developed a strong foundation in blockchain technology through hackathons,online courses and personal projects
-            - Unique perspective on the applications of blockchain in the energy industry
+            - Developed a strong foundation in blockchain technology through hackathons, online courses and personal projects
 experiences:
     title: Experiences
     info:
-      - role: Data Analyst Freelancer, Fiverr (Remote)
+    - role: Code Auditor, Code4rena (Remote)
+        time: 2022 - 2023
+        company: Code4rena
+        details: |
+          I honed my technical abilities in auditing smart contracts and conducting security assessments.
+          My experience in scrutinizing smart contract code has equipped me with crucial skills for blockchain development,
+          including an eye for detail, risk assessment, and extensive knowledge of smart contract security.
+          
+      - role: Student LearnWeb3Dao
+        time: 2021 - 2022
+        company: LearnWeb3Dao
+        details: |
+          LearnWeb3DAO is focused on teaching developers how to build decentralized applications (DApps)
+          on the Ethereum blockchain using the Solidity programming language. By completing this track, I learnt;
+          - How to write Solidity code to create smart contracts that can be deployed on the Ethereum blockchain
+          - How to interact with Ethereum using Web3.js, Web3.py and other Ethereum development tools
+          - How to build decentralized applications (DApps) that interact with smart contracts on the Ethereum blockchain
+          - How to use IPFS for decentralized storage and file sharing in DApps
+          - Best practices for smart contract development, including security and testing methodologies
+          
+- role: Data Analyst Freelancer, Fiverr (Remote)
         time: 2021
         company: Fiverr
         details: |
@@ -82,98 +95,40 @@ experiences:
           understand their needs and provide customized data analysis solutions.
           My experience in data analysis has equipped me with valuable skills that are transferable
           to blockchain development, including problem-solving, critical thinking, and attention to detail.
-            - Utilized data analysis tools such as Python, R, and SQL to gather, clean, and analyze data for clients in various industries
-            - Collaborated with clients to identify key performance indicators (KPIs) and develop customized dashboards to track and monitor progress
-            - Successfully completed [number] projects with [percentage]% client satisfaction and [number] positive reviews
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I Successfully completed more than 4 projects with 5 star reviews.
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The following are a couple of project I have worked on.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Resolver
+        link: "https://gitfront.io/r/user-5556879/oAnqmmbnhjfF/Resolver/"
+        tagline: "Resolver is a smart contract bytecode analysis tool that uses symbolic execution to determine the constraint that result in a successful execution"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Brothers Keeper
+        link: "https://github.com/dashingfon/Brothers-Keeper"
+        tagline: "Brothers Keeper is a DAO that of like minded people enriching each others lives"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: CryptoArbitrage
+        link: "https://github.com/dashingfon/CryptoArbitrage"
+        tagline: "CryptoArbitrage is a MEV bot that is used to make arbitrage trades on decentralized exchanges on ERC-20 tokens"
 
 oss:
-    title: OSS Contributions
+    title: Certifications
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These certifications showcase my technical proficiency in data analysis, and web3 development.
+      I am committed to continuously improving my technical skills and obtaining additional certifications to stay up-to-date with the
+      latest developments in the industry.
     contributions:
-      - title: Tempo
+      - title: Google Data Analysis Certification
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: ""
 
-      - title: Atom
+      - title: LearnWeb3Dao Graduation NFT 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: ""
 
 skills:
     title: Skills &amp; Proficiency
